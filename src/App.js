@@ -11,7 +11,7 @@ import { Row, Col } from "reactstrap";
 function App() {
   return (
     <div>
-        <Navbar />
+      <Navbar />
       <Row>
         <Col>
           <HomePage />
@@ -32,11 +32,7 @@ function App() {
           <Contact />
         </Col>
       </Row>
-      <Row>
-        <Col>
-          <Footer />
-        </Col>
-      </Row>
+   {/* <Footer />    */}
     </div>
   );
 }

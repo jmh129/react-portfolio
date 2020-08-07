@@ -12,7 +12,7 @@ const Portfolio = () => {
   return (
     <div>
       <div className="container center fluid" id="Portfolio">
-        <h1 id="PortfolioTag" className="text-center">
+        <h1 id="PortfolioTag" className="text-left">
           Portfolio
         </h1>
       </div>
