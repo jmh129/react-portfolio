@@ -2,6 +2,10 @@
   margin-top: 4rem;
 }
 
+#AboutMe {
+  height: 100vh;
+}
+
 #AboutMeTag {
   color: #7200ca;
   letter-spacing: 1px;
