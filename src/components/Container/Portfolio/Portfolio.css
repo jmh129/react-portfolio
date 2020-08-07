@@ -1,0 +1,17 @@
+#PortfolioTag {
+  color: #7200ca;
+  letter-spacing: 1px;
+  font-weight: 300;
+  margin-top: 5rem;
+  margin-left: 1rem;
+  margin-bottom: 0rem;
+}
+
+#ProjectCards {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.card {
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}

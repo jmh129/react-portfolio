@@ -1,0 +1,13 @@
+.container {
+  margin-top: 4rem;
+}
+
+#AboutMeTag {
+  color: #7200ca;
+  letter-spacing: 1px;
+  font-weight: 300;
+}
+
+p {
+    font-weight: 300;
+} 
