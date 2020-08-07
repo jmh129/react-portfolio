@@ -11,7 +11,7 @@ const AboutMe = () => {
           <img className="img-fluid" src={Image} alt="Headshot"></img>
         </div>
         <div className="col-sm-6">
-          <h2 id="AboutMeTag">About Me</h2>
+          <h1 id="AboutMeTag">About Me</h1>
           <p>
             Hey, I'm a Full-Stack Web Developer, Engineer and Veteran
             of the United States Marine Corps. With Skills in MERN
