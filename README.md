@@ -22,7 +22,7 @@ Note: Make sure to run npm install as this application makes use of node package
 
 ### Usage
 
-To use the application, the user can visit the site and search the data returned from the API. The user can sort through the data in each column by pushing the +/- minus button in the header. 
+The user can use the navbar to smooth scroll through different sections of my portfolio. The can also click on the links in the portfolio section to see the github repos and deployed sights of my projects. 
 
 Link to site: https://jmh129.github.io/react-portfolio/
 
@@ -30,7 +30,7 @@ Link to site: https://jmh129.github.io/react-portfolio/
 
 ### Home Page
 
-![Alt Text](https://github.com/jmh129/gt-react-employee-directory/blob/master/images/homepage.png?raw=true)
+![Alt Text](https://github.com/jmh129/react-portfolio/blob/master/src/assets/portfolioImages/App.png?raw=true)
 
 ### Credits
 
