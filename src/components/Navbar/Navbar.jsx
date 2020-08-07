@@ -18,7 +18,7 @@ const NavBar = () => {
   return (
     <div>
       <Navbar className="fixed-top" color="white" light expand="md">
-        <NavbarBrand href="https://jmh129.github.io/" >JH</NavbarBrand>
+        <NavbarBrand href="https://jmh129.github.io/react-portfolio/" >JH</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="mr-auto" navbar>
