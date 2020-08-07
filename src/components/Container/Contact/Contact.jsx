@@ -14,7 +14,7 @@ const Contact = () => {
       <div className="container fluid">
         <div className="row">
           <h1 id="Contact">Connect With Me</h1>
-          <Col sm="8">
+          <Col id="contactCard" sm="8">
             <Card body>
               <div className="row">
                 <div className="col-6">

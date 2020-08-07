@@ -5,7 +5,7 @@
     #aa00ff 0%,
     #7200ca 100%
   );
-  height:60vh;
+  height:100%;
 }
 
 #Contact {
@@ -18,7 +18,7 @@
 
 .contactInfo {
   color: #7200ca;
-  font-size: 17px;
+  font-size: 15px;
   font-weight: 500;
   letter-spacing: 5px;
   margin-top: 1rem;
