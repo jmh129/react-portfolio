@@ -26,6 +26,16 @@
   letter-spacing: 10px;
 }
 
-#start-button {
+h5 {
   color: #fff;
 }
+
+
+.angleDown {
+  background-color: transparent;
+  border: transparent;
+  color: white;
+  outline: none !important;
+  box-shadow: none;
+}
+
