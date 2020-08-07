@@ -17,7 +17,7 @@ const NavBar = () => {
 
   return (
     <div>
-      <Navbar className="fixed-top" color="transparent" light expand="md">
+      <Navbar className="fixed-top" color="white" light expand="md">
         <NavbarBrand href="/" >JH</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
