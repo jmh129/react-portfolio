@@ -66,7 +66,6 @@ const Contact = () => {
           </Col>
         </div>
       </div>
-      <h5 id="copyright" className="pt-4">James Holding &copy; 2020</h5>
     </div>
   );
 };

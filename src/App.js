@@ -5,6 +5,7 @@ import HomePage from "./components/Container/Homepage/Homepage";
 import AboutMe from "./components/Container/AboutMe/AboutMe";
 import Portfolio from "./components/Container/Portfolio/Portfolio";
 import Contact from "./components/Container/Contact/Contact";
+import Footer from "./components/Footer/Footer"
 import { Row, Col } from "reactstrap";
 
 function App() {
@@ -31,6 +32,7 @@ function App() {
           <Contact />
         </Col>
       </Row>
+      <Footer />
     </div>
   );
 }
