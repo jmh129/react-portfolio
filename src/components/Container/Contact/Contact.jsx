@@ -13,7 +13,7 @@ const Contact = () => {
     <div className="backgroundContact">
       <div className="container fluid">
         <div className="row">
-          <h1 id="Contact">Connect With Me</h1>
+          <h1 id="Contact">Connect</h1>
           <Col id="contactCard" sm="8">
             <Card body>
               <div className="row">
@@ -49,7 +49,6 @@ const Contact = () => {
                       icon={faEnvelope}
                     />
                   </a>
-
                   <CardTitle id="resume" className="contactInfo">
                     Check Out My Resume
                   </CardTitle>
