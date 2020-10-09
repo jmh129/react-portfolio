@@ -49,8 +49,7 @@ const Contact = () => {
                       icon={faEnvelope}
                     />
                   </a>
-                </div>
-                <div className="col-5">
+
                   <CardTitle id="resume" className="contactInfo">
                     Check Out My Resume
                   </CardTitle>
