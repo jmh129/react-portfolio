@@ -1,3 +1,13 @@
+#Portfolio {
+  text-align: center;
+}
+
+#CardList {
+  justify-content: center;
+  padding-left: 0;
+  
+}
+
 #PortfolioTag {
   color: #7200ca;
   letter-spacing: 1px;

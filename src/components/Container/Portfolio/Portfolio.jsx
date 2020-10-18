@@ -18,7 +18,7 @@ const Portfolio = () => {
       </div>
       <div className="container center fluid" id="ProjectCards">
         <div className="row">
-          <div className="col d-flex align-content-start flex-wrap">
+          <div className="col d-flex align-content-center flex-wrap" id="CardList">
             <ProjectCard
               imageName={FlexCity}
               projectTitle="FlexCity"
