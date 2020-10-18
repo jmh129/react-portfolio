@@ -3,6 +3,7 @@ import ProjectCard from "../../Card/Card";
 import FlexCity from "../../../assets/portfolioImages/FlexCity.png";
 import BruHub from "../../../assets/portfolioImages/BruHub.png";
 import EmployeeDirectory from "../../../assets/portfolioImages/EmployeeDirectory.png";
+import Mars from "../../../assets/portfolioImages/mars.jpg";
 import WeatherDashboard from "../../../assets/portfolioImages/WeatherDashboard.png";
 import NoteTaker from "../../../assets/portfolioImages/NoteTaker.png";
 import CodeQuiz from "../../../assets/portfolioImages/CodeQuiz.png";
@@ -39,6 +40,13 @@ const Portfolio = () => {
               cardText="An Employee Directory built with React."
               deployedLink="https://jmh129.github.io/gt-react-employee-directory/"
               gitHubLink="https://github.com/jmh129/gt-react-employee-directory"
+            ></ProjectCard>
+            <ProjectCard
+              imageName={Mars}
+              projectTitle="Martian Weather - Coming Soon!"
+              cardText="Martian Weather app via NASA API"
+              deployedLink="Coming Soon"
+              gitHubLink="Coming Soon"
             ></ProjectCard>
             <ProjectCard
               imageName={WeatherDashboard}
