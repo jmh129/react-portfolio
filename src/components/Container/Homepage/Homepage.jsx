@@ -19,7 +19,7 @@ const Homepage = () => {
           to="AboutMe"
           spy={true}
           smooth={true}
-          offset={-30}
+          offset={-50}
           duration={500}
         >
           <button className="angleDown">
