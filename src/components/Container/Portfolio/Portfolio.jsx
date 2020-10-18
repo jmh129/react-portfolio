@@ -3,7 +3,7 @@ import ProjectCard from "../../Card/Card";
 import FlexCity from "../../../assets/portfolioImages/FlexCity.png";
 import BruHub from "../../../assets/portfolioImages/BruHub.png";
 import EmployeeDirectory from "../../../assets/portfolioImages/EmployeeDirectory.png";
-import Mars from "../../../assets/portfolioImages/mars.jpg";
+import Mars from "../../../assets/portfolioImages/Mars.jpg";
 import WeatherDashboard from "../../../assets/portfolioImages/WeatherDashboard.png";
 import NoteTaker from "../../../assets/portfolioImages/NoteTaker.png";
 import CodeQuiz from "../../../assets/portfolioImages/CodeQuiz.png";

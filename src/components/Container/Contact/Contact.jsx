@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "../../../assets/portfolioImages/James Holding Resume Aug 20.pdf";
+import Resume from "../../../assets/portfolioImages/JamesHoldingResume.pdf";
 import { Card, CardTitle, Col } from "reactstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
@@ -22,8 +22,9 @@ const Contact = () => {
                     Linkedin
                   </CardTitle>
                   <a
-                    href="www.linkedin.com/in/jamesholding"
-                    traget="_blank"
+                    href="https://www.linkedin.com/in/jamesholding"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <FontAwesomeIcon
                       className="fa-3x"
@@ -33,7 +34,8 @@ const Contact = () => {
                   <CardTitle className="contactInfo">
                     Github
                   </CardTitle>
-                  <a href="https://github.com/jmh129" traget="_blank">
+                  <a href="https://github.com/jmh129" target="_blank" rel="noopener noreferrer">
+                    
                     <FontAwesomeIcon
                       className="fa-3x"
                       icon={faGithub}
@@ -43,6 +45,7 @@ const Contact = () => {
                   <a
                     href="mailto:james.holding90@gmail.com"
                     traget="_blank"
+                    rel="noopener noreferrer"
                   >
                     <FontAwesomeIcon
                       className="fa-3x"
