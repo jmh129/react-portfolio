@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.7254b7c5.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.68aafe11.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.68aafe11.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.8dd2da2e.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.a015427b.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.a015427b.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
-    "static/css/2.f3cffc9e.chunk.css": "/react-portfolio/static/css/2.f3cffc9e.chunk.css",
+    "static/css/2.8aa5a7f8.chunk.css": "/react-portfolio/static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.0bc57b29.chunk.js": "/react-portfolio/static/js/2.0bc57b29.chunk.js",
     "static/js/2.0bc57b29.chunk.js.map": "/react-portfolio/static/js/2.0bc57b29.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.809a4e23db2bb0d924e9ad5c68966a62.js": "/react-portfolio/precache-manifest.809a4e23db2bb0d924e9ad5c68966a62.js",
+    "precache-manifest.f8981b9617d6cc043dd3589762d8c434.js": "/react-portfolio/precache-manifest.f8981b9617d6cc043dd3589762d8c434.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/css/2.f3cffc9e.chunk.css.map": "/react-portfolio/static/css/2.f3cffc9e.chunk.css.map",
-    "static/css/main.7254b7c5.chunk.css.map": "/react-portfolio/static/css/main.7254b7c5.chunk.css.map",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/react-portfolio/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.8dd2da2e.chunk.css.map": "/react-portfolio/static/css/main.8dd2da2e.chunk.css.map",
     "static/js/2.0bc57b29.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.0bc57b29.chunk.js.LICENSE.txt",
     "static/media/BruHub.png": "/react-portfolio/static/media/BruHub.ae23a18d.png",
     "static/media/CodeQuiz.png": "/react-portfolio/static/media/CodeQuiz.1e473449.png",
@@ -24,9 +24,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.213b1880.js",
-    "static/css/2.f3cffc9e.chunk.css",
+    "static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.0bc57b29.chunk.js",
-    "static/css/main.7254b7c5.chunk.css",
-    "static/js/main.68aafe11.chunk.js"
+    "static/css/main.8dd2da2e.chunk.css",
+    "static/js/main.a015427b.chunk.js"
   ]
 }
