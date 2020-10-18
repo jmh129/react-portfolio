@@ -12,20 +12,21 @@ const Homepage = () => {
         <h1 className="HomepageText">James Holding</h1>
         <br />
         <h3>Fullstack Web Developer</h3>
+
+        <Link
+          className="nav-link"
+          activeClass="active"
+          to="AboutMe"
+          spy={true}
+          smooth={true}
+          offset={-70}
+          duration={500}
+        >
+          <button className="angleDown">
+            <FontAwesomeIcon icon={faChevronDown} />
+          </button>
+        </Link>
       </div>
-      <Link
-        className="nav-link"
-        activeClass="active"
-        to="AboutMe"
-        spy={true}
-        smooth={true}
-        offset={-70}
-        duration={500}
-      >
-        <button className="angleDown">
-          <FontAwesomeIcon icon={faChevronDown} />
-        </button>
-      </Link>
     </div>
   );
 };

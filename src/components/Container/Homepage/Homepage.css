@@ -27,13 +27,8 @@
   letter-spacing: 10px;
 }
 
-h5 {
-  color: #fff;
-}
-
-
 .angleDown {
-  position: absolute;
+  margin-top: 20%;
   bottom: 4rem;
   background-color: transparent;
   border: transparent;
