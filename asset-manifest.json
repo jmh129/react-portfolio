@@ -1,32 +1,33 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.8dd2da2e.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.a015427b.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.a015427b.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.1df607e4.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.ac55ba80.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.ac55ba80.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/react-portfolio/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.0bc57b29.chunk.js": "/react-portfolio/static/js/2.0bc57b29.chunk.js",
-    "static/js/2.0bc57b29.chunk.js.map": "/react-portfolio/static/js/2.0bc57b29.chunk.js.map",
+    "static/js/2.5ed80058.chunk.js": "/react-portfolio/static/js/2.5ed80058.chunk.js",
+    "static/js/2.5ed80058.chunk.js.map": "/react-portfolio/static/js/2.5ed80058.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.f8981b9617d6cc043dd3589762d8c434.js": "/react-portfolio/precache-manifest.f8981b9617d6cc043dd3589762d8c434.js",
+    "precache-manifest.49b9b8ea2f318ea27299238e23583854.js": "/react-portfolio/precache-manifest.49b9b8ea2f318ea27299238e23583854.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/react-portfolio/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.8dd2da2e.chunk.css.map": "/react-portfolio/static/css/main.8dd2da2e.chunk.css.map",
-    "static/js/2.0bc57b29.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.0bc57b29.chunk.js.LICENSE.txt",
+    "static/css/main.1df607e4.chunk.css.map": "/react-portfolio/static/css/main.1df607e4.chunk.css.map",
+    "static/js/2.5ed80058.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.5ed80058.chunk.js.LICENSE.txt",
     "static/media/BruHub.png": "/react-portfolio/static/media/BruHub.ae23a18d.png",
     "static/media/CodeQuiz.png": "/react-portfolio/static/media/CodeQuiz.1e473449.png",
     "static/media/EmployeeDirectory.png": "/react-portfolio/static/media/EmployeeDirectory.e25b88ab.png",
     "static/media/FlexCity.png": "/react-portfolio/static/media/FlexCity.f0f82db3.png",
     "static/media/James Holding Resume Aug 20.pdf": "/react-portfolio/static/media/James Holding Resume Aug 20.821da597.pdf",
     "static/media/WeatherDashboard.png": "/react-portfolio/static/media/WeatherDashboard.c482c8c9.png",
-    "static/media/headshot-copy.png": "/react-portfolio/static/media/headshot-copy.23f56cde.png"
+    "static/media/headshot-copy.png": "/react-portfolio/static/media/headshot-copy.23f56cde.png",
+    "static/media/mars.jpg": "/react-portfolio/static/media/mars.2e4ced7e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.213b1880.js",
     "static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.0bc57b29.chunk.js",
-    "static/css/main.8dd2da2e.chunk.css",
-    "static/js/main.a015427b.chunk.js"
+    "static/js/2.5ed80058.chunk.js",
+    "static/css/main.1df607e4.chunk.css",
+    "static/js/main.ac55ba80.chunk.js"
   ]
 }
