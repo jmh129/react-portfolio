@@ -22,7 +22,7 @@ const ProjectCard = ({
 }) => {
   return (
     <div>
-      <Card>
+      <Card className="shadow">
         <CardImg
           top
           width="100%"
