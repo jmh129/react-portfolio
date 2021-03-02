@@ -1,5 +1,6 @@
 import React from "react";
 import ProjectCard from "../../Card/Card";
+import SoHotInHere from "../../../assets/portfolioImages/hot-in-here-logo-original.png";
 import FlexCity from "../../../assets/portfolioImages/FlexCity.png";
 import BruHub from "../../../assets/portfolioImages/BruHub.png";
 import EmployeeDirectory from "../../../assets/portfolioImages/EmployeeDirectory.png";
@@ -19,11 +20,21 @@ const Portfolio = () => {
       </div>
       <div className="container center fluid" id="ProjectCards">
         <div className="row">
-          <div className="col d-flex align-content-center flex-wrap" id="CardList">
+          <div
+            className="col d-flex align-content-center flex-wrap"
+            id="CardList"
+          >
+            <ProjectCard
+              imageName={SoHotInHere}
+              projectTitle="So Hot In Here"
+              cardText="A Blog For Climate Change and Action"
+              deployedLink="https://sohotinhere.netlify.app/"
+              gitHubLink="https://github.com/jmh129/"
+            ></ProjectCard>
             <ProjectCard
               imageName={FlexCity}
               projectTitle="FlexCity"
-              cardText="A Fitness App"
+              cardText="A Fitness App - Full Stack React App"
               deployedLink="https://blooming-coast-09812.herokuapp.com/"
               gitHubLink="https://github.com/jmh129/project-2"
             ></ProjectCard>

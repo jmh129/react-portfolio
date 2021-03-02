@@ -34,8 +34,11 @@ const Contact = () => {
                   <CardTitle className="contactInfo">
                     Github
                   </CardTitle>
-                  <a href="https://github.com/jmh129" target="_blank" rel="noopener noreferrer">
-                    
+                  <a
+                    href="https://github.com/jmh129"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <FontAwesomeIcon
                       className="fa-3x"
                       icon={faGithub}
@@ -55,7 +58,11 @@ const Contact = () => {
                   <CardTitle id="resume" className="contactInfo">
                     Check Out My Resume
                   </CardTitle>
-                  <a href={Resume}>
+                  <a
+                    href={Resume}
+                    traget="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <FontAwesomeIcon
                       className="fa-3x"
                       icon={faFile}

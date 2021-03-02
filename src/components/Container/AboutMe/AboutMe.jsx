@@ -14,7 +14,7 @@ const AboutMe = () => {
           <h1 id="AboutMeTag">About Me</h1>
           <p>
             Hey, I'm a Full-Stack Web Developer, Engineer and Veteran
-            of the United States Marine Corps. With Skills in MERN
+            of the United States Marine Corps. With skills in MERN
             stack technologies and a background in Oracle Cloud
             implentation, I strive to learn the most relevant skills
             and have a passion for problem solving and helping others.

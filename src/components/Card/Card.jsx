@@ -11,7 +11,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faLink } from "@fortawesome/free-solid-svg-icons";
 
-import "../Card/Card.css"
+import "../Card/Card.css";
 
 const ProjectCard = ({
   imageName,
@@ -33,11 +33,11 @@ const ProjectCard = ({
         <CardBody>
           <CardTitle>{projectTitle}</CardTitle>
           <CardText>{cardText}</CardText>
-          <a href={deployedLink}>
-            <FontAwesomeIcon className= "fa-2x" icon={faLink} />
+          <a href={deployedLink} target="_blank" rel="noopener noreferrer">
+            <FontAwesomeIcon className="fa-2x" icon={faLink} />
           </a>
           <a href={gitHubLink}>
-            <FontAwesomeIcon className= "fa-2x" icon={faGithub} />
+            <FontAwesomeIcon className="fa-2x" icon={faGithub} />
           </a>
         </CardBody>
       </Card>
