@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.acff6315.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.843f2924.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.843f2924.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.456da132.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.a3e481f3.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.a3e481f3.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/react-portfolio/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.2bc5a770.chunk.js": "/react-portfolio/static/js/2.2bc5a770.chunk.js",
-    "static/js/2.2bc5a770.chunk.js.map": "/react-portfolio/static/js/2.2bc5a770.chunk.js.map",
+    "static/js/2.037770fe.chunk.js": "/react-portfolio/static/js/2.037770fe.chunk.js",
+    "static/js/2.037770fe.chunk.js.map": "/react-portfolio/static/js/2.037770fe.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.1d15a92636d89034c564ae81883fbdd2.js": "/react-portfolio/precache-manifest.1d15a92636d89034c564ae81883fbdd2.js",
+    "precache-manifest.cbd6e02c95cf561931e4ef1603946b15.js": "/react-portfolio/precache-manifest.cbd6e02c95cf561931e4ef1603946b15.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/react-portfolio/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.acff6315.chunk.css.map": "/react-portfolio/static/css/main.acff6315.chunk.css.map",
-    "static/js/2.2bc5a770.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.2bc5a770.chunk.js.LICENSE.txt",
+    "static/css/main.456da132.chunk.css.map": "/react-portfolio/static/css/main.456da132.chunk.css.map",
+    "static/js/2.037770fe.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.037770fe.chunk.js.LICENSE.txt",
     "static/media/BruHub.png": "/react-portfolio/static/media/BruHub.ae23a18d.png",
     "static/media/CodeQuiz.png": "/react-portfolio/static/media/CodeQuiz.1e473449.png",
     "static/media/EmployeeDirectory.png": "/react-portfolio/static/media/EmployeeDirectory.e25b88ab.png",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.213b1880.js",
     "static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.2bc5a770.chunk.js",
-    "static/css/main.acff6315.chunk.css",
-    "static/js/main.843f2924.chunk.js"
+    "static/js/2.037770fe.chunk.js",
+    "static/css/main.456da132.chunk.css",
+    "static/js/main.a3e481f3.chunk.js"
   ]
 }
