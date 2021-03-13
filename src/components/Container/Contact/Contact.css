@@ -12,6 +12,8 @@
   color: white;
   letter-spacing: 1px;
   font-weight: 300;
+  align-items: center;
+  justify-content: center;
   margin-left: 2rem;
   margin-bottom: 0rem;
 }

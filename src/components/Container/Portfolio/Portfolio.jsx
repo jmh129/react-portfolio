@@ -13,7 +13,7 @@ import "../Portfolio/Portfolio.css";
 const Portfolio = () => {
   return (
     <div>
-      <div className="container center fluid" id="Portfolio">
+      <div className="container center fluid py-2" id="Portfolio">
         <h1 id="PortfolioTag" className="text-left">
           Portfolio
         </h1>

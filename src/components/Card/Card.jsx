@@ -26,7 +26,7 @@ const ProjectCard = ({
         <CardImg
           top
           width="100%"
-          height="200px"
+          height="auto"
           src={imageName}
           alt={projectTitle}
         />
